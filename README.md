@@ -1,9 +1,9 @@
-# classrecipe-template
-## elementary,social,classroom
+# Physic-with-IT
+## High,social,classroom
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
-Elementary School (6-12)
+High School (10-12)
 
 
 ![IMG_2918.JPG](http://justmyth.files.wordpress.com/2011/11/narik-balok.jpg)
@@ -32,5 +32,18 @@ In this activity, students make a introduction movie about practice force and im
 * Water
 * Oil
 * Statif
+---
+#Theory
+Force is pull or thrust
+Force have three law called Newton Law's, there are:
+1) The first's law:
+"Every object in a state of uniform motion tends to remain in that state of motion unless an external force is applied to it."
+2) The second law:
+"The relationship between an object's mass m, its acceleration a, and the applied force F is F = ma. Acceleration and force are vectors (as indicated by their symbols being displayed in slant bold font); in this law the direction of the force vector is the same as the direction of the acceleration vector"
+3) The thirth law:
+"If the first object of the work force a second object, the second object will work on the style of the first things the same magnitude, but opposite direction"
+![IMG_2918.JPG](http://hannibalphysics.wikispaces.com/file/view/newton_laws.jpg/263834963/newton_laws.jpg)
+---
+#Information
 Student can practice this task for three day.
 ---
