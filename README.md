@@ -6,28 +6,31 @@ This document is made by [gitfab](http://gitfab.org)
 Elementary School (6-12)
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+![IMG_2918.JPG](http://justmyth.files.wordpress.com/2011/11/narik-balok.jpg)
 ---
 #Scale
 1 classroom (~30)
 
+1 group (4)
 ---
 #Overall
-In this activity, students make a introduction movie about their own country, and presentation for others.
-
-
+In this activity, students make a introduction movie about practice force and implement in their life.
 ---
 #Educational Effect
-* Search information and Remixing
-
-skill
-
+* Search information and Remixing skill
 * Presentation Skill
-* deep Knowledge for own country
+* Deep Knowledge for force
+* Implement
 
 ---
 #Item/Material/System
 * PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
 * Popcorn Maker
 * Screen for presentation
+* String
+* Object
+* Water
+* Oil
+* Statif
+Student can practice this task for three day.
 ---
